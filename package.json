@@ -1,0 +1,23 @@
+{
+  "name": "hamonitorjs",
+  "version": "0.0.1",
+  "description": "Simple monitor for haproxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpologistics/hamonitorjs.git"
+  },
+  "author": "Jay Silberkleit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpologistics/hamonitorjs/issues"
+  },
+  "homepage": "https://github.com/xpologistics/hamonitorjs#readme",
+  "dependencies": {
+    "nodemailer": "^1.5.0",
+    "commandlinejs": "xpologistics/commandlinejs"
+  }
+}
